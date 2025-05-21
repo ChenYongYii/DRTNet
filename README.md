@@ -14,7 +14,7 @@ ___________
 
 ## 3.model 
 -  **training:** python main.py
--  **trsting:** python test.py
+-  **testing:** python test.py
 -  **metrics.py:** to evaluate the metrics.
 -  **data_loader.py:** read and simulate data.
 
